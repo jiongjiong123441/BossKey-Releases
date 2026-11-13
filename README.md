@@ -5,4 +5,4 @@
 前往右侧 Releases 下载最新版：Card = 卡密版。
 
 **免费轻享版（BossKey-Lite）已开源（MIT），并改在独立仓库发布：**
-<https://github.com/jiongjiong123441/BossKey-Lite> · [下载最新版 BossKey-Lite.exe](https://github.com/jiongjiong123441/BossKey-Lite/releases/latest/download/BossKey-Lite.exe)
+<https://github.com/ydnw6/BossKey-Lite> · [下载最新版 BossKey-Lite.exe](https://github.com/ydnw6/BossKey-Lite/releases/latest/download/BossKey-Lite.exe)
